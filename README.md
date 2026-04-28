@@ -70,13 +70,30 @@ git push origin food
 ```
 
 ## Import into ServiceNow
+
+### Method 1: Application Import
+1. Download the files from the `food` branch in your GitHub repository
+2. In your ServiceNow instance, navigate to **System Definition > Applications**
+3. Click **Import Application**
+4. Upload the `app.xml` file
+5. Follow the import wizard to install the application
+
+### Method 2: Update Set Import
 1. Download the files from the `food` branch in your GitHub repository
 2. In your ServiceNow instance, navigate to **System Update Sets > Retrieved Update Sets**
 3. Click **Import Update Set from XML**
-4. Upload all XML files from the `update` directory
+4. Upload the `update_set.xml` file
 5. Preview and commit the update set
 6. Activate the Food Management application
 7. Assign the `x_951571_food_mgt.user` role to users who need access
+
+### Method 3: Individual XML Import
+1. Download the files from the `food` branch in your GitHub repository
+2. In your ServiceNow instance, navigate to **System Import Sets > Import XML**
+3. Upload all XML files from the `update` directory
+4. Preview and commit the update set
+5. Activate the Food Management application
+6. Assign the `x_951571_food_mgt.user` role to users who need access
 
 ## Development Notes
 - All table and field names follow ServiceNow naming conventions
