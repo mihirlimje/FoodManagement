@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_dictionary">
+    <sys_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <array_type>false</array_type>
+        <array_type_denormalized>false</array_type_denormalized>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_type>string</column_type>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default/>
+        <dynamic_ref_qual/>
+        <element>name</element>
+        <element_reference/>
+        <foreign_key/>
+        <function_field>false</function_field>
+        <internal_type>string</internal_type>
+        <label>Meal Name</label>
+        <mandatory>true</mandatory>
+        <max_length>100</max_length>
+        <name>x_951571_food_mgt_meal</name>
+        <next_element/>
+        <primary>false</primary>
+        <query/>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reftable/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-28 12:00:00</sys_created_on>
+        <sys_id>meal_name12345678901234567890123456789</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Meal Name</sys_name>
+        <sys_package display_value="Food Management">food12345678901234567890123456789</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Food Management">food12345678901234567890123456789</sys_scope>
+        <sys_update_name>sys_dictionary_x_951571_food_mgt_meal_name</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-28 12:00:00</sys_updated_on>
+        <table_reference>x_951571_food_mgt_meal</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dynamic_reference>false</use_dynamic_reference>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view/>
+    </sys_dictionary>
+    <sys_translated_text action="delete_multiple" query="documentkey=meal_name12345678901234567890123456789"/>
+</record_update>

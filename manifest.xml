@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <name>Food Management</name>
+    <version>1.0.0</version>
+    <description>Food Management System for tracking meals, inventory, and nutrition</description>
+    <scope>x_951571_food_mgt</scope>
+    <prefix>food</prefix>
+    <author>admin</author>
+    <created_date>2026-04-28</created_date>
+    <updated_date>2026-04-28</updated_date>
+    <files>
+        <file>sys_app.xml</file>
+        <file>update/sys_db_object_x_951571_food_mgt_meal.xml</file>
+        <file>update/sys_db_object_x_951571_food_mgt_inventory.xml</file>
+        <file>update/sys_db_object_x_951571_food_mgt_nutrition.xml</file>
+        <file>update/sys_dictionary_*.xml</file>
+        <file>update/sys_ui_form_*.xml</file>
+        <file>update/sys_ui_list_*.xml</file>
+        <file>update/sys_ui_module_*.xml</file>
+        <file>update/sys_ui_application_*.xml</file>
+        <file>update/sys_security_acl_*.xml</file>
+        <file>update/sys_script_client_*.xml</file>
+    </files>
+</manifest>
