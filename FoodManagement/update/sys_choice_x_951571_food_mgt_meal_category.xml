@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_choice">
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent/>
+        <element>category</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Breakfast</label>
+        <language>en</language>
+        <name>x_951571_food_mgt_meal</name>
+        <sequence>0</sequence>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-28 12:00:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>choice_breakfast12345678901234567890123456789</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-28 12:00:00</sys_updated_on>
+        <value>breakfast</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent/>
+        <element>category</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Lunch</label>
+        <language>en</language>
+        <name>x_951571_food_mgt_meal</name>
+        <sequence>1</sequence>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-28 12:00:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>choice_lunch12345678901234567890123456789</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-28 12:00:00</sys_updated_on>
+        <value>lunch</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent/>
+        <element>category</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Dinner</label>
+        <language>en</language>
+        <name>x_951571_food_mgt_meal</name>
+        <sequence>2</sequence>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-28 12:00:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>choice_dinner12345678901234567890123456789</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-28 12:00:00</sys_updated_on>
+        <value>dinner</value>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+        <dependent/>
+        <element>category</element>
+        <hint/>
+        <inactive>false</inactive>
+        <label>Snack</label>
+        <language>en</language>
+        <name>x_951571_food_mgt_meal</name>
+        <sequence>3</sequence>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-28 12:00:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>choice_snack12345678901234567890123456789</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-28 12:00:00</sys_updated_on>
+        <value>snack</value>
+    </sys_choice>
+</record_update>

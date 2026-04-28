@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <name>Food Management</name>
+    <scope>x_951571_food_mgt</scope>
+    <prefix>food</prefix>
+    <description>Food Management System for tracking meals, inventory, and nutrition</description>
+    <version>1.0.0</version>
+    <active>true</active>
+    <category>Custom</category>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2026-04-28 12:00:00</sys_created_on>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2026-04-28 12:00:00</sys_updated_on>
+    <files>
+        <file>sys_app.xml</file>
+        <file>update/sys_db_object_x_951571_food_mgt_meal.xml</file>
+        <file>update/sys_db_object_x_951571_food_mgt_inventory.xml</file>
+        <file>update/sys_dictionary_x_951571_food_mgt_meal_number.xml</file>
+        <file>update/sys_dictionary_x_951571_food_mgt_meal_name.xml</file>
+        <file>update/sys_dictionary_x_951571_food_mgt_meal_category.xml</file>
+        <file>update/sys_choice_x_951571_food_mgt_meal_category.xml</file>
+        <file>update/sys_ui_application.xml</file>
+        <file>update/sys_ui_module_meal.xml</file>
+        <file>update/sys_ui_module_inventory.xml</file>
+        <file>update/sys_ui_form_meal.xml</file>
+        <file>update/sys_user_role.xml</file>
+        <file>update/sys_update_set.xml</file>
+    </files>
+</application>

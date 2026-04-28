@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_form">
+    <sys_ui_form action="INSERT_OR_UPDATE">
+        <name>x_951571_food_mgt_meal</name>
+        <roles/>
+        <sys_class_name>sys_ui_form</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-28 12:00:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>form_meal12345678901234567890123456789</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_951571_food_mgt_meal</sys_name>
+        <sys_package display_value="Food Management">food12345678901234567890123456789</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Food Management">food12345678901234567890123456789</sys_scope>
+        <sys_update_name>sys_ui_form_form_meal12345678901234567890123456789</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-28 12:00:00</sys_updated_on>
+        <view>Default view</view>
+        <view_name/>
+    </sys_ui_form_sections>
+    <sys_ui_form_section action="INSERT_OR_UPDATE">
+        <caption>Meal Information</caption>
+        <form display_value="x_951571_food_mgt_meal">form_meal12345678901234567890123456789</form>
+        <name>x_951571_food_mgt_meal</name>
+        <order>100</order>
+        <position>0</position>
+        <sys_class_name>sys_ui_form_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-28 12:00:00</sys_created_on>
+        <sys_id>form_section112345678901234567890123456789</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_951571_food_mgt_meal</sys_name>
+        <sys_package display_value="Food Management">food12345678901234567890123456789</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Food Management">food12345678901234567890123456789</sys_scope>
+        <sys_update_name>sys_ui_form_section_form_section112345678901234567890123456789</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-28 12:00:00</sys_updated_on>
+    </sys_ui_form_section>
+</record_update>
